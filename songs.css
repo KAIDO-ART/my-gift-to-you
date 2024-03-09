@@ -49,8 +49,16 @@ margin-bottom: 30px;
     padding: 10px 40px;
     border-radius: 5px;
     background-color: rgb(8, 51, 2);
+    margin-bottom: 20px;
 }
 .final a i{
     font-size: 50px;
     color: white;
+}
+.final .linkkk{
+    margin-bottom: 50px;
+}
+.final p{
+    font-size: 50px;
+    text-align: center;
 }
