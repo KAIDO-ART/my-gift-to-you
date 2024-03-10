@@ -55,6 +55,7 @@ canvas#confetti {
     color: black;
     text-align: left;
     margin-bottom: 40px;
+    font-family: "DM Serif Display", serif;
 }
 .main-birthday img{
     width: 250px;
